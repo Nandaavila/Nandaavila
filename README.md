@@ -1,4 +1,4 @@
-<h1 align="center">Olá! 👋 Eu sou Fernanda de Oliveira Ávila</h1>
+<h1 align="center">Olá! 👋 Eu sou Fernanda Ávila</h1>
 
 <h3 align="center">
 Engenheira Eletricista • Técnica em Telecomunicações • Graduanda em Gestão de Tecnologia da Informação
