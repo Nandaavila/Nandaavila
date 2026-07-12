@@ -176,7 +176,7 @@ O objetivo é inspirar outros profissionais que desejam migrar para a área de t
 
 📧 [Email](fernandaoavila19@gmail.com)
 
-🌐 Portfólio *(em construção)*
+🌐 [Portfólio](https://nandaavila.github.io/#sobre)
 
 ---
 
